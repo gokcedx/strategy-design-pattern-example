@@ -1,8 +1,10 @@
 package com.gokcedx;
 
 /**
- * Hello world!
+ * strategy-design-pattern-example
  *
+ * @author Gökçe Doğanay
+ * @version 12.07.2020
  */
 public class App 
 {
